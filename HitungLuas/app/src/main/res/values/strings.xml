@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HitungLuas</string>
+    <string name="panjangtext">Panjang:</string>
+    <string name="lebartext">Lebar:</string>
+    <string name="buttonhitung">Hitung Luas</string>
+    <string name="luastext">Luas:</string>
+</resources>
